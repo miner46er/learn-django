@@ -2,4 +2,4 @@
 venv/
 
 # Visual Studio Code files
-*.vscode/
+.vscode/
